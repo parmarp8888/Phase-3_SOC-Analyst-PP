@@ -1203,7 +1203,9 @@ ipconfig /all
 ### Answer
 
 **regedt32.exe**
-![Uploading image.png…]()
+
+<img width="507" height="190" alt="image" src="https://github.com/user-attachments/assets/a7f752ef-ac14-4b06-afe7-d505a14c5556" />
+
 
 ### 🧠 Explanation
 
