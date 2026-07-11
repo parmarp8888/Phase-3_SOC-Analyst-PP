@@ -1,6 +1,7 @@
 
+**<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/6e97ccd4-66e3-4b3c-a4bd-59fb4417616c" />** 
 # Walkthrough: [Windows](https://tryhackme.com/room/windowsfundamentals1xbx) [Fundamentals](https://tryhackme.com/room/windowsfundamentals2x0x)
-<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/6e97ccd4-66e3-4b3c-a4bd-59fb4417616c" />
+
 
 
 > **Room Objective:**
