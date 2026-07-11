@@ -521,12 +521,6 @@ Excellent choice. These two rooms are **core Windows knowledge** for every SOC A
 
 ---
 
-# X10THINK + /HUMAN
-
-# **Day-20A | Windows Fundamentals 1 (AI SOC Professor Notes)**
-
----
-
 # **Task 1 – Windows Editions**
 
 ### Question
